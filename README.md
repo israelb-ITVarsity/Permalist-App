@@ -14,3 +14,5 @@ A simple item tracker that lets users create, update, and delete entries on a pe
 - Update existing entries
 - Remove items when no longer needed
 - Clean and responsive UI with real-time updates
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username)
