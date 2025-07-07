@@ -1,7 +1,16 @@
 # Permalist-App
 
-A streamlined item management app built with **JavaScript**, **EJS**, **PostgreSQL**, and **Axios**.
+A simple item tracker that lets users create, update, and delete entries on a personalized permanent list.
 
-Users can add, update, and delete entries from a personalized permanent list. The app uses **PostgreSQL** for backend data storage and **Axios** to seamlessly communicate with the server and push results to the interface.
+## 🛠 Tech Stack
+- **JavaScript** — Handles core logic and interactivity
+- **EJS** — Renders dynamic views in the browser
+- **PostgreSQL** — Stores item data securely
+- **Axios** — Connects the frontend to the backend API
+- **Express.js** — Powers routing and server-side operations
 
-Ideal for simple list tracking with solid architecture behind the scenes.
+## 🚀 Features
+- Add new items to your list
+- Update existing entries
+- Remove items when no longer needed
+- Clean and responsive UI with real-time updates
